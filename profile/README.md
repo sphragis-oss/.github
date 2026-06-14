@@ -59,6 +59,6 @@ sphragis verify ~/.sphragis/audit.jsonl
 
 <p align="center">
   <sub>
-    <a href="https://sphragis.eu">sphragis.eu</a> · Apache-2.0 · status: early · built in the open, headed for the <a href="https://www.cncf.io/">CNCF</a> Sandbox
+    <a href="https://sphragis.eu">sphragis.eu</a> · Apache-2.0 · status: early · built in the open
   </sub>
 </p>
